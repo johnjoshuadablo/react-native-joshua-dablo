@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../projects/ppd-for-doctors"
+		},
+		{
+			"path": "../projects/ppd-for-patient"
+		},
+		{
+			"path": "../projects/sidehustles/react-native-annoying-calculator"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
